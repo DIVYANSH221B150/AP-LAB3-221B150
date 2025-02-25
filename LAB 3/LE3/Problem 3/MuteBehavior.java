@@ -1,0 +1,3 @@
+interface MuteBehavior {
+    void mute();
+}
